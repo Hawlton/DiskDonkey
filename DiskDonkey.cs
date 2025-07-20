@@ -302,7 +302,7 @@ public class DiskDonkey
     public static void ShowHelp()
     {
         Console.WriteLine("\nUsage: DiskUsage.exe [-p <path>] [-m <minSizeGB>] [-d <maxDepth>] [-o <outputFilePath>] [-h]");
-        Console.WriteLine("  -p, -path <path>        : Starting directory to scan (e.g., C:\\). Default is C:\\.");
+        Console.WriteLine("  -p, -path <path>        : Starting directory to scan (e.g., C:\\).");
         Console.WriteLine("  -m, -minsizegb <size>   : Minimum size in GB for a folder to be reported. Default is 1 GB.");
         Console.WriteLine("  -d, -maxdepth <depth>   : Maximum directory depth to scan. -1 for infinite (default).");
         Console.WriteLine("  -o, -output <filePath>  : Path to a file to save the report. (e.g., C:\\Reports\\du_report.txt)");
