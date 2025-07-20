@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiskDonkey", "DiskDonkey.csproj", "{538D4E9A-D8BB-4EF7-A973-68B8A7B7C941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538D4E9A-D8BB-4EF7-A973-68B8A7B7C941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538D4E9A-D8BB-4EF7-A973-68B8A7B7C941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538D4E9A-D8BB-4EF7-A973-68B8A7B7C941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538D4E9A-D8BB-4EF7-A973-68B8A7B7C941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA3C1BE4-55D3-4124-9E06-513C8221678C}
+	EndGlobalSection
+EndGlobal
